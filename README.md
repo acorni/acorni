@@ -1,6 +1,6 @@
 - I’m Alberto Corni @acorni
 
-- I’m interested in Living my Life as better as possible. This is a tough. Moreover I like programming historically in Java and now in Javascript, pyton, perl. I usually program on management tools and network scripts.
+- I’m interested in Living my Life as better as possible, and it is tough. Moreover I like programming historically in Java and now in Javascript, pyton, perl. I usually program on management tools and network scripts.
 
 - 🌱 I’m currently learning... Linux System Administation, Docker, Ansible and may be in a while MongoDB.
 
